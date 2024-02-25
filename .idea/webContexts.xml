@@ -4,6 +4,9 @@
     <option name="state">
       <map>
         <entry key="file://$PROJECT_DIR$/src/main/webapp/footer.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/index.html" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/startbootstrap-sb-admin-2-gh-pages/index.html" value="file://$PROJECT_DIR$/src/main/webapp/startbootstrap-sb-admin-2-gh-pages" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/users/list.jsp" value="file://$PROJECT_DIR$/src/main/webapp/users" />
         <entry key="file://$PROJECT_DIR$/src/main/webapp/usersList.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
       </map>
     </option>
