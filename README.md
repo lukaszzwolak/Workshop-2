@@ -1,4 +1,4 @@
-Workshop_2: A Java console application for a programming school with MySQL database integration and Active Record design pattern.
+Workshop-2: A Java console application for a programming school with MySQL database integration and Active Record design pattern.
 
 Functionality:
 
